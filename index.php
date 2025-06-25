@@ -1,9 +1,9 @@
-
+<?php
 /*
 Plugin Name: Advanced Timed Access Password Sender
 Version: 2.0
 Description: Email-based password access request with admin approval, configurable settings, email templates, expiry, and logs.
-Author: YourName
+Author: Ali hossain (MTS)
 */
 
 if (!defined('ABSPATH')) exit;
